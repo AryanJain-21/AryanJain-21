@@ -1,6 +1,6 @@
-### Hi there 👋 my name is Aryan
+# Hi there 👋 my name is Aryan
 ## Data Analyst and Software Developer
-# Undergraduate Student at Northeastern
+### Undergraduate Student at Northeastern
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
