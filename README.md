@@ -1,9 +1,6 @@
 ### Hi there 👋 my name is Aryan
-
-
-**AryanJain-21/AryanJain-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Data Analyst and Software Developer
+# Undergraduate Student at Northeastern
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
