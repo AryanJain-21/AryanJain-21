@@ -6,5 +6,6 @@
 - 📫 How to reach me: My email is aryan.km.jain@gmail.com
 - ⚡ Fun fact: Currently, I am proficient in Python, Java, C++, C, and R
 
-![bannergif](https://github.com/AryanJain-21/AryanJain-21/assets/149397817/f6097350-301b-4a4d-8232-1e9db81e946b)
+
+![calm-nature](https://github.com/AryanJain-21/AryanJain-21/assets/149397817/31a30a4a-3d21-419e-b0dc-e427f4efeeb1)
 
