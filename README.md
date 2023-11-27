@@ -2,9 +2,9 @@
 ## Data Analyst and Software Developer
 
 - 🔭 I’m currently working on Voltare
-- 🌱 I’m currently learning SQL, CSS, and tools in Machine Learning
+- 🌱 I’m currently learning AWS
 - 📫 How to reach me: My email is aryan.km.jain@gmail.com
-- ⚡ Fun fact: Currently, I am proficient in Python, Java, C++, C, and R
+- ⚡ Fun fact: Currently, I am proficient in Python, Java, C++, C, R, CSS, HTML
 
 
 
