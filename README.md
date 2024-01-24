@@ -1,10 +1,11 @@
 # Hi there 👋 my name is Aryan
 ## Data Analyst and Software Developer
 
-- 🔭 I’m currently working on Voltare
-- 🌱 I’m currently learning AWS
+- 🔭 I’m currently working on my education at Northeastern University and looking for opportunities for this Summer. 
+- 🌱 I’m currently learning cloud computing, AWS/Azure.
 - 📫 How to reach me: My email is aryan.km.jain@gmail.com
-- ⚡ Fun fact: Currently, I am proficient in Python, Java, C++, C, R, CSS, HTML
+- ⚡ Currently, I am proficient in Python, SQLite/SQL, Java, C++, C, R, CSS, HTML
+- Fun fact: I am highly involved with the South Asian community at Northeastern and working on a cultural performance.
 
 
 
